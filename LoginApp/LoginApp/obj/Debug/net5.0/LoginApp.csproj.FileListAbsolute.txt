@@ -1,0 +1,16 @@
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\bin\Debug\net5.0\LoginApp.exe
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\bin\Debug\net5.0\LoginApp.deps.json
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\bin\Debug\net5.0\LoginApp.runtimeconfig.json
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\bin\Debug\net5.0\LoginApp.runtimeconfig.dev.json
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\bin\Debug\net5.0\LoginApp.dll
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\bin\Debug\net5.0\ref\LoginApp.dll
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\bin\Debug\net5.0\LoginApp.pdb
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.csprojAssemblyReference.cache
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.AssemblyInfoInputs.cache
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.AssemblyInfo.cs
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.dll
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\ref\LoginApp.dll
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.pdb
+C:\Users\90544\source\repos\newconsoleapp2\LoginApp\LoginApp\obj\Debug\net5.0\LoginApp.genruntimeconfig.cache
